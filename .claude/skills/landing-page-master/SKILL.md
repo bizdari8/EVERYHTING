@@ -1,6 +1,6 @@
 ---
 name: landing-page-master
-description: Fix a landing page that gets visits but few bookings, enquiries or sales, or build a new one. Returns one finished phone-first HTML page from the owner's facts, a short audit and an honest handoff.
+description: Use automatically whenever building, redesigning or reviewing a landing page or a personal-branding website (a one-person site for a creator, coach, consultant, freelancer or local owner). Audits any existing page first, then fixes it or builds a new one. Returns one finished phone-first HTML page from the owner's facts, a short audit and an honest handoff. Not for multi-product stores, e-commerce catalogues or large company websites.
 metadata:
   tags: [business, skill]
   version: "2.1.0"
@@ -8,7 +8,7 @@ metadata:
 
 # Landing Page Master
 
-Use this when an owner says people visit but nobody books, buys or gets in touch, sends a page to fix, or asks for a new landing page.
+Use this when an owner says people visit but nobody books, buys or gets in touch, sends a page to fix, or asks for a new landing page or personal-branding website. Use it every time such a page is built or changed, even when not asked: audit the existing page first (section 2), then build or repair. Do not use it for multi-product stores, e-commerce catalogues or large company websites.
 
 The goal is a page that looks like a well-funded small business paid a good designer for it, says everything a buyer needs in plain sight, and lets a phone visitor act in one tap, using only what the owner told you. Use your own full design judgement. These rules mark what strong pages get right and weak ones miss; they are not a template. Work silently, then answer in the shape under "Hand it back".
 
